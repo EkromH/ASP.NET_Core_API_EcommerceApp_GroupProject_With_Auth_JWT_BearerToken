@@ -26,6 +26,7 @@ cd ASP.NET_Core_API_EcommerceApp_GroupProject_With_Auth_JWT_BearerToken
 * Run the Entity Framework Core migrations to set up the database schema:
 
 dotnet ef migrations add InitialCreate
+
 dotnet ef database update
 
 * # Build and Run the Application:
