@@ -10,28 +10,25 @@ This is a sample e-commerce application built with ASP.NET Core, featuring authe
 * User Registration and Login: Register new users and log in.
 * Role-based Authorization: Different roles with specific permissions.
 # Getting Started
-* Prerequisites
-.NET 8.0 or later
-
-SQL Server or any other supported database
-
-Visual Studio or VS Code (optional but recommended)
+* # Prerequisites
+* .NET 8.0 or later
+* SQL Server or any other supported database
+* Visual Studio or VS Code (optional but recommended)
 
 # Installation
 * # Clone the Repository:
 git clone https://github.com/EkromH/ASP.NET_Core_API_EcommerceApp_GroupProject_With_Auth_JWT_BearerToken.git
 cd ASP.NET_Core_API_EcommerceApp_GroupProject_With_Auth_JWT_BearerToken
 
-* Set Up the Database:
-Configure your database connection in appsettings.json.
+* # Set Up the Database:
+* Configure your database connection in appsettings.json.
 
-Run the Entity Framework Core migrations to set up the database schema:
+* Run the Entity Framework Core migrations to set up the database schema:
 
 dotnet ef migrations add InitialCreate
-
 dotnet ef database update
 
-* Build and Run the Application:
+* # Build and Run the Application:
 
 dotnet build
 
