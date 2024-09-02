@@ -18,7 +18,7 @@ SQL Server or any other supported database
 Visual Studio or VS Code (optional but recommended)
 
 # Installation
-* Clone the Repository:
+* # Clone the Repository:
 git clone https://github.com/EkromH/ASP.NET_Core_API_EcommerceApp_GroupProject_With_Auth_JWT_BearerToken.git
 cd ASP.NET_Core_API_EcommerceApp_GroupProject_With_Auth_JWT_BearerToken
 
